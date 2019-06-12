@@ -2,3 +2,6 @@ model.model/
 out/
 python2/
 test/
+*.DS_Store
+models/
+one_shot_backgrounds.sarray/
